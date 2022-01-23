@@ -17,4 +17,4 @@ The spotify_song_finder.py uses the comments generated in the comments.py file t
 
 Finally, the spotify_playlist_adder.py file retrieves the individuals track IDs from the songs.txt file and adds them to a specified Spotify playlist.
 
-Note: The comments_generated and songs_generated files are the outputs generated from running the scripts on the beautiful songs thread on r/AskReddit. Additionally, the I apologize for the lack of comments throughout the code, but feel free to DM me on Reddit if you have any questions.
+Note: The comments_generated and songs_generated files are the outputs generated from running the scripts on the beautiful songs thread on r/AskReddit. Additionally, I apologize for the lack of comments throughout my code, but feel free to DM me on Reddit if you have any questions.
